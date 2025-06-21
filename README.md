@@ -27,7 +27,7 @@ By the end of this exercise, you will be able to:
 ### 📁 Dataset
 - Northwind.db  
   Download the SQLite sample database from:
- [ https://github.com/jpwhite3/northwind-SQLite](https://docs.yugabyte.com/preview/sample-data/northwind/)
+ [ https://docs.yugabyte.com/preview/sample-data/northwind/](https://docs.yugabyte.com/preview/sample-data/northwind/)
 
 ## 🧱 Project Structure
 ```
